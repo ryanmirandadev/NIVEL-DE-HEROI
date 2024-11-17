@@ -1,4 +1,9 @@
 # Do Ferro ao Radiante: Descubra o nível do seu Herói 🏆
+## 🎮 Sobre o Projeto
+
+Neste projeto, você insere o nome do seu herói e a quantidade de XP acumulada para descobrir seu nível.
+
+Com base no XP fornecido, o programa usa uma estrutura condicional para classificar o herói em um dos níveis predeterminados e exibe a mensagem correspondente.
 
 ## 📋 Como Usar
  * Abra o código no seu editor de texto.
